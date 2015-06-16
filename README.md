@@ -3,3 +3,9 @@
 Read emotions from an Emotiv headset to control a character's interactions in a game (auto-interaction with NPCs).
 
 [CHAT](//tinychat.com/iai9ig)
+
+
+Team members:
+
+<li>Zhao Liang</li>
+<li>Ganesh Balaji</li>
